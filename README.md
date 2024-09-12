@@ -1,2 +1,6 @@
 # UX220-Lab-1
-## Edit this, according to the instructions in the lab, using markdown.
+## Things I've written
+
+blah blah blah
+
+paragraph 2 blah blah blah
